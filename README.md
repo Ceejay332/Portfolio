@@ -4,9 +4,15 @@
 
 Welcome to my web development portfolio! This repository showcases my projects built using **HTML** and **basic CSS**, demonstrating clean, organized, and responsive web design.  
 
+
+
 ## Live Preview
 
+
+
 Check out the live version of this project: [View Portfolio](https://ceejay332.github.io/Portfolio/)
+
+
 
 ## About Me
 
